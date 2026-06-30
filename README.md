@@ -126,7 +126,7 @@ To run this project locally, follow these steps:
    Import `clean_healthcare_dataset.csv` into your preferred SQL database. Execute the scripts in the `SQL/` folder to run the analyses.
 
 4. **Power BI Dashboard:**
-   Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/). Open `PowerBI/Healthcare Analytics Dashboard.pbix` to view and interact with the visualizations.
+   Download and install [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/). Open the `PowerBI/Healthcare Analytics Dashboard.pbix` file to view and interact with the visualizations.
 
 ## 🔮 Future Improvements
 * **Predictive Modeling:** Implement Machine Learning (e.g., Logistic Regression, Random Forest) to predict patient readmission rates.
