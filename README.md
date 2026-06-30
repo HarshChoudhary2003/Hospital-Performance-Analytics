@@ -58,7 +58,7 @@ The Jupyter Notebooks in the `Notebooks/` directory perform heavy lifting for da
 ## 📸 Dashboard Screenshots
 An interactive Power BI dashboard (`Healthcare Analytics Dashboard.pbix`) was created to visualize KPIs at a glance.
 
-![Healthcare Dashboard](Screenshots/Screenshot%202026-06-30%20182322.png)
+![Healthcare Dashboard](Screenshots/Dashboard.png)
 
 ## 💡 Business Insights
 1. **Billing Variations:** Specific medical conditions incur significantly higher average billing amounts, indicating a need for optimized resource planning in those departments.
@@ -96,7 +96,7 @@ Hospital Performance & Patient Analytics/
 │   └── Hospital-Performance-and-Patient-Analytics Presentation PDF.pdf
 │
 ├── Screenshots/
-│   └── Screenshot 2026-06-30 182322.png
+│   └── Dashboard.png
 │
 ├── SQL/
 │   ├── basic_analysis.sql
